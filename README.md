@@ -21,6 +21,6 @@ This Power BI project visualizes Amazon product sales, customer reviews, and cat
 - Strong year-end performance observed in Q4
 
 ## 📎 Dashboard Preview
-[Click to view the dashboard screenshot]((https://github.com/sforsubh/amazon-sales-analysis-dashboard/blob/main/dashboard%20image.png)
+[[Click to view the dashboard screenshot]((https://github.com/sforsubh/amazon-sales-analysis-dashboard/blob/main/dashboard%20image.png)](https://github.com/sforsubh/amazon-sales-analysis-dashboard/blob/main/dashboard%20image.png)
 
 
