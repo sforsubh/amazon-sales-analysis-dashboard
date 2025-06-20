@@ -1,6 +1,3 @@
-# amazon-sales-analysis-dashboard
-Power BI dashboard analyzing Amazon product sales and customer reviews. Features interactive visuals, KPIs, and category insights to support data-driven decisions.
-
 # Amazon Sales Analysis Dashboard
 
 This Power BI project visualizes Amazon product sales, customer reviews, and category performance using interactive charts and KPIs.
@@ -24,5 +21,6 @@ This Power BI project visualizes Amazon product sales, customer reviews, and cat
 - Strong year-end performance observed in Q4
 
 ## 📎 Dashboard Preview
-(https://github.com/sforsubh/amazon-sales-analysis-dashboard/blob/main/dashboard%20image.png)
+[Click to view the dashboard screenshot]((https://github.com/sforsubh/amazon-sales-analysis-dashboard/blob/main/dashboard%20image.png)
+
 
