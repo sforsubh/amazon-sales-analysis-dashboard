@@ -20,7 +20,10 @@ This Power BI project visualizes Amazon product sales, customer reviews, and cat
 - Sales peaked in August and November (seasonal trends)
 - Strong year-end performance observed in Q4
 
-## 📎 Dashboard Preview
-[[Click to view the dashboard screenshot]((https://github.com/sforsubh/amazon-sales-analysis-dashboard/blob/main/dashboard%20image.png)](https://github.com/sforsubh/amazon-sales-analysis-dashboard/blob/main/dashboard%20image.png)
+## ## Dashboard Preview
+
+![Amazon Sales Dashboard](https://github.com/sforsubh/amazon-sales-analysis-dashboard/blob/main/dashboard%20image.png?raw=true)
+
+
 
 
